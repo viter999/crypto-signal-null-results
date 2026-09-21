@@ -1,0 +1,4 @@
+# Placeholder so this directory is tracked.
+# Intended contents: self-contained re-derivations that need no private data.
+# Highest-value first item: the zero-drift Monte Carlo reproducing the
+# expired-outcome survivorship artifact (61.2% simulated vs 61.8% observed).
