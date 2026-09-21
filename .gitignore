@@ -1,0 +1,25 @@
+# This repository publishes derived research evidence and documentation only.
+# Nothing operational, no credentials, and no raw data belong here.
+# Markdown research artifacts are intentionally tracked and must NOT be ignored.
+
+# Secrets and environment
+.env
+.env.*
+secrets/
+
+# Databases and raw data
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.csv.gz
+data/
+raw/
+
+# Analysis outputs (attach deliberately, never by accident)
+evidence/outputs/
+
+# Python
+__pycache__/
+*.pyc

@@ -104,7 +104,7 @@ Value:    all subgroup intervals include zero
 Sample:   subgroups of Claim 1 population
 Window:   as Claim 1
 Source:   same analysis run as Claim 1
-Status:   RECORDED
+Status:   UNVERIFIED
 Notes:    Subgroup counts and per-cell intervals were not preserved in the
           project record and would need regeneration. This claim is
           therefore the weakest-provenance item on this page and should be

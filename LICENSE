@@ -4,8 +4,9 @@ This repository uses two licenses.
 DOCUMENTATION — Creative Commons Attribution 4.0 International (CC BY 4.0)
 ================================================================================
 
-All Markdown documents, figures, and research text in this repository are
-licensed under CC BY 4.0.
+All documentation in this repository is licensed under CC BY 4.0. This means
+every Markdown document, all prose, and all figures — including
+`reproducibility/README.md`, which is documentation rather than code.
 
 You are free to share and adapt this material for any purpose, including
 commercially, provided you give appropriate credit.
@@ -19,8 +20,9 @@ tests and which are exploratory — that distinction is the point of the work.
 CODE — MIT License
 ================================================================================
 
-Any source code in this repository, including everything under
-`reproducibility/scripts/`, is licensed under the MIT License.
+Source code in `reproducibility/scripts/` is licensed under the MIT License.
+This covers scripts only; Markdown files elsewhere in `reproducibility/` are
+documentation and fall under CC BY 4.0 above.
 
 Copyright (c) 2026 viter999
 

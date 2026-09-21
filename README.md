@@ -60,4 +60,8 @@ The verification status of each figure is tracked in [evidence/README.md](eviden
 
 ## License
 
-Documentation is licensed **CC BY 4.0**; any code under `reproducibility/` is licensed **MIT**. See [LICENSE](LICENSE).
+Documentation — all prose, Markdown and figures, including `reproducibility/README.md` — is licensed **CC BY 4.0**.
+
+Source code in `reproducibility/scripts/` is licensed **MIT**.
+
+See [LICENSE](LICENSE).
